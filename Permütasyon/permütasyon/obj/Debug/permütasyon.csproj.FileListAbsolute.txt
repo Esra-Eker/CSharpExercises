@@ -1,0 +1,7 @@
+C:\Users\EKER\source\repos\permütasyon\permütasyon\bin\Debug\permütasyon.exe.config
+C:\Users\EKER\source\repos\permütasyon\permütasyon\bin\Debug\permütasyon.exe
+C:\Users\EKER\source\repos\permütasyon\permütasyon\bin\Debug\permütasyon.pdb
+C:\Users\EKER\source\repos\permütasyon\permütasyon\obj\Debug\permütasyon.csprojAssemblyReference.cache
+C:\Users\EKER\source\repos\permütasyon\permütasyon\obj\Debug\permütasyon.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\permütasyon\permütasyon\obj\Debug\permütasyon.exe
+C:\Users\EKER\source\repos\permütasyon\permütasyon\obj\Debug\permütasyon.pdb
