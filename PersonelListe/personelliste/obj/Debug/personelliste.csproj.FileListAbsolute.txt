@@ -1,0 +1,7 @@
+C:\Users\EKER\source\repos\personelliste\personelliste\bin\Debug\personelliste.exe.config
+C:\Users\EKER\source\repos\personelliste\personelliste\bin\Debug\personelliste.exe
+C:\Users\EKER\source\repos\personelliste\personelliste\bin\Debug\personelliste.pdb
+C:\Users\EKER\source\repos\personelliste\personelliste\obj\Debug\personelliste.csprojAssemblyReference.cache
+C:\Users\EKER\source\repos\personelliste\personelliste\obj\Debug\personelliste.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\personelliste\personelliste\obj\Debug\personelliste.exe
+C:\Users\EKER\source\repos\personelliste\personelliste\obj\Debug\personelliste.pdb
