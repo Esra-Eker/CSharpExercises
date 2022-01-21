@@ -1,0 +1,7 @@
+C:\Users\EKER\source\repos\odev10\odev10\bin\Debug\odev10.exe.config
+C:\Users\EKER\source\repos\odev10\odev10\bin\Debug\odev10.exe
+C:\Users\EKER\source\repos\odev10\odev10\bin\Debug\odev10.pdb
+C:\Users\EKER\source\repos\odev10\odev10\obj\Debug\odev10.csprojAssemblyReference.cache
+C:\Users\EKER\source\repos\odev10\odev10\obj\Debug\odev10.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\odev10\odev10\obj\Debug\odev10.exe
+C:\Users\EKER\source\repos\odev10\odev10\obj\Debug\odev10.pdb
