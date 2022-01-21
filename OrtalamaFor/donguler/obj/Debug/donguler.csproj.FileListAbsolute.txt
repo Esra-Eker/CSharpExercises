@@ -1,0 +1,7 @@
+C:\Users\EKER\source\repos\donguler\donguler\bin\Debug\donguler.exe.config
+C:\Users\EKER\source\repos\donguler\donguler\bin\Debug\donguler.exe
+C:\Users\EKER\source\repos\donguler\donguler\bin\Debug\donguler.pdb
+C:\Users\EKER\source\repos\donguler\donguler\obj\Debug\donguler.csprojAssemblyReference.cache
+C:\Users\EKER\source\repos\donguler\donguler\obj\Debug\donguler.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\donguler\donguler\obj\Debug\donguler.exe
+C:\Users\EKER\source\repos\donguler\donguler\obj\Debug\donguler.pdb
