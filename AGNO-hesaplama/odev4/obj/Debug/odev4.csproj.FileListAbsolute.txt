@@ -1,0 +1,14 @@
+C:\Users\EKER\source\repos\odev4\odev4\obj\Debug\odev4.csprojAssemblyReference.cache
+C:\Users\EKER\source\repos\odev4\odev4\obj\Debug\odev4.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\odev4\odev4\bin\Debug\odev4.exe.config
+C:\Users\EKER\source\repos\odev4\odev4\bin\Debug\odev4.exe
+C:\Users\EKER\source\repos\odev4\odev4\bin\Debug\odev4.pdb
+C:\Users\EKER\source\repos\odev4\odev4\obj\Debug\odev4.exe
+C:\Users\EKER\source\repos\odev4\odev4\obj\Debug\odev4.pdb
+C:\Users\EKER\source\repos\AGNO-hesaplama\odev4\bin\Debug\odev4.exe.config
+C:\Users\EKER\source\repos\AGNO-hesaplama\odev4\bin\Debug\odev4.exe
+C:\Users\EKER\source\repos\AGNO-hesaplama\odev4\bin\Debug\odev4.pdb
+C:\Users\EKER\source\repos\AGNO-hesaplama\odev4\obj\Debug\odev4.csprojAssemblyReference.cache
+C:\Users\EKER\source\repos\AGNO-hesaplama\odev4\obj\Debug\odev4.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\AGNO-hesaplama\odev4\obj\Debug\odev4.exe
+C:\Users\EKER\source\repos\AGNO-hesaplama\odev4\obj\Debug\odev4.pdb
