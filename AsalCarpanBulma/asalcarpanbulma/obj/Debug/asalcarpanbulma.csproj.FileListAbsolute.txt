@@ -1,0 +1,7 @@
+C:\Users\EKER\source\repos\asalcarpanbulma\asalcarpanbulma\bin\Debug\asalcarpanbulma.exe.config
+C:\Users\EKER\source\repos\asalcarpanbulma\asalcarpanbulma\bin\Debug\asalcarpanbulma.exe
+C:\Users\EKER\source\repos\asalcarpanbulma\asalcarpanbulma\bin\Debug\asalcarpanbulma.pdb
+C:\Users\EKER\source\repos\asalcarpanbulma\asalcarpanbulma\obj\Debug\asalcarpanbulma.csprojAssemblyReference.cache
+C:\Users\EKER\source\repos\asalcarpanbulma\asalcarpanbulma\obj\Debug\asalcarpanbulma.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\asalcarpanbulma\asalcarpanbulma\obj\Debug\asalcarpanbulma.exe
+C:\Users\EKER\source\repos\asalcarpanbulma\asalcarpanbulma\obj\Debug\asalcarpanbulma.pdb
