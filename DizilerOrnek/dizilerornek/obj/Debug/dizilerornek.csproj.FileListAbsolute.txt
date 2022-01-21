@@ -1,0 +1,7 @@
+C:\Users\EKER\source\repos\dizilerornek\dizilerornek\bin\Debug\dizilerornek.exe.config
+C:\Users\EKER\source\repos\dizilerornek\dizilerornek\bin\Debug\dizilerornek.exe
+C:\Users\EKER\source\repos\dizilerornek\dizilerornek\bin\Debug\dizilerornek.pdb
+C:\Users\EKER\source\repos\dizilerornek\dizilerornek\obj\Debug\dizilerornek.csprojAssemblyReference.cache
+C:\Users\EKER\source\repos\dizilerornek\dizilerornek\obj\Debug\dizilerornek.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\dizilerornek\dizilerornek\obj\Debug\dizilerornek.exe
+C:\Users\EKER\source\repos\dizilerornek\dizilerornek\obj\Debug\dizilerornek.pdb
