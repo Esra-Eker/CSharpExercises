@@ -1,0 +1,7 @@
+C:\Users\EKER\source\repos\BarislaDerslerIfStatement\BarislaDerslerIfStatement\bin\Debug\BarislaDerslerIfStatement.exe.config
+C:\Users\EKER\source\repos\BarislaDerslerIfStatement\BarislaDerslerIfStatement\bin\Debug\BarislaDerslerIfStatement.exe
+C:\Users\EKER\source\repos\BarislaDerslerIfStatement\BarislaDerslerIfStatement\bin\Debug\BarislaDerslerIfStatement.pdb
+C:\Users\EKER\source\repos\BarislaDerslerIfStatement\BarislaDerslerIfStatement\obj\Debug\BarislaDerslerIfStatement.csprojAssemblyReference.cache
+C:\Users\EKER\source\repos\BarislaDerslerIfStatement\BarislaDerslerIfStatement\obj\Debug\BarislaDerslerIfStatement.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\BarislaDerslerIfStatement\BarislaDerslerIfStatement\obj\Debug\BarislaDerslerIfStatement.exe
+C:\Users\EKER\source\repos\BarislaDerslerIfStatement\BarislaDerslerIfStatement\obj\Debug\BarislaDerslerIfStatement.pdb
