@@ -1,0 +1,7 @@
+C:\Users\EKER\source\repos\WhileDongusu\WhileDongusu\bin\Debug\WhileDongusu.exe.config
+C:\Users\EKER\source\repos\WhileDongusu\WhileDongusu\bin\Debug\WhileDongusu.exe
+C:\Users\EKER\source\repos\WhileDongusu\WhileDongusu\bin\Debug\WhileDongusu.pdb
+C:\Users\EKER\source\repos\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.csprojAssemblyReference.cache
+C:\Users\EKER\source\repos\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.exe
+C:\Users\EKER\source\repos\WhileDongusu\WhileDongusu\obj\Debug\WhileDongusu.pdb
