@@ -1,0 +1,7 @@
+C:\Users\EKER\source\repos\carpimtablosu\carpimtablosu\bin\Debug\carpimtablosu.exe.config
+C:\Users\EKER\source\repos\carpimtablosu\carpimtablosu\bin\Debug\carpimtablosu.exe
+C:\Users\EKER\source\repos\carpimtablosu\carpimtablosu\bin\Debug\carpimtablosu.pdb
+C:\Users\EKER\source\repos\carpimtablosu\carpimtablosu\obj\Debug\carpimtablosu.csprojAssemblyReference.cache
+C:\Users\EKER\source\repos\carpimtablosu\carpimtablosu\obj\Debug\carpimtablosu.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\carpimtablosu\carpimtablosu\obj\Debug\carpimtablosu.exe
+C:\Users\EKER\source\repos\carpimtablosu\carpimtablosu\obj\Debug\carpimtablosu.pdb
