@@ -1,0 +1,7 @@
+C:\Users\EKER\source\repos\dowhileornek\dowhileornek\bin\Debug\dowhileornek.exe.config
+C:\Users\EKER\source\repos\dowhileornek\dowhileornek\bin\Debug\dowhileornek.exe
+C:\Users\EKER\source\repos\dowhileornek\dowhileornek\bin\Debug\dowhileornek.pdb
+C:\Users\EKER\source\repos\dowhileornek\dowhileornek\obj\Debug\dowhileornek.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\dowhileornek\dowhileornek\obj\Debug\dowhileornek.exe
+C:\Users\EKER\source\repos\dowhileornek\dowhileornek\obj\Debug\dowhileornek.pdb
+C:\Users\EKER\source\repos\dowhileornek\dowhileornek\obj\Debug\dowhileornek.csprojAssemblyReference.cache
