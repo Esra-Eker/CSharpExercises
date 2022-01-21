@@ -1,7 +1,0 @@
-C:\Users\EKER\source\repos\odev1\odev1\bin\Debug\odev1.exe.config
-C:\Users\EKER\source\repos\odev1\odev1\bin\Debug\odev1.exe
-C:\Users\EKER\source\repos\odev1\odev1\bin\Debug\odev1.pdb
-C:\Users\EKER\source\repos\odev1\odev1\obj\Debug\odev1.csprojAssemblyReference.cache
-C:\Users\EKER\source\repos\odev1\odev1\obj\Debug\odev1.csproj.CoreCompileInputs.cache
-C:\Users\EKER\source\repos\odev1\odev1\obj\Debug\odev1.exe
-C:\Users\EKER\source\repos\odev1\odev1\obj\Debug\odev1.pdb
