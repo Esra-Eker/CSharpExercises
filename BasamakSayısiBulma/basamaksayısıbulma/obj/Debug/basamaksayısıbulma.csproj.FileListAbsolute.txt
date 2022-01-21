@@ -1,0 +1,7 @@
+C:\Users\EKER\source\repos\basamaksayısıbulma\basamaksayısıbulma\bin\Debug\basamaksayısıbulma.exe.config
+C:\Users\EKER\source\repos\basamaksayısıbulma\basamaksayısıbulma\bin\Debug\basamaksayısıbulma.exe
+C:\Users\EKER\source\repos\basamaksayısıbulma\basamaksayısıbulma\bin\Debug\basamaksayısıbulma.pdb
+C:\Users\EKER\source\repos\basamaksayısıbulma\basamaksayısıbulma\obj\Debug\basamaksayısıbulma.csprojAssemblyReference.cache
+C:\Users\EKER\source\repos\basamaksayısıbulma\basamaksayısıbulma\obj\Debug\basamaksayısıbulma.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\basamaksayısıbulma\basamaksayısıbulma\obj\Debug\basamaksayısıbulma.exe
+C:\Users\EKER\source\repos\basamaksayısıbulma\basamaksayısıbulma\obj\Debug\basamaksayısıbulma.pdb
