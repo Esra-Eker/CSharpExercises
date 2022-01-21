@@ -1,0 +1,7 @@
+C:\Users\EKER\source\repos\dowhile2\dowhile2\bin\Debug\dowhile2.exe.config
+C:\Users\EKER\source\repos\dowhile2\dowhile2\bin\Debug\dowhile2.exe
+C:\Users\EKER\source\repos\dowhile2\dowhile2\bin\Debug\dowhile2.pdb
+C:\Users\EKER\source\repos\dowhile2\dowhile2\obj\Debug\dowhile2.csprojAssemblyReference.cache
+C:\Users\EKER\source\repos\dowhile2\dowhile2\obj\Debug\dowhile2.csproj.CoreCompileInputs.cache
+C:\Users\EKER\source\repos\dowhile2\dowhile2\obj\Debug\dowhile2.exe
+C:\Users\EKER\source\repos\dowhile2\dowhile2\obj\Debug\dowhile2.pdb
