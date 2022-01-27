@@ -1,0 +1,13 @@
+C:\Users\EKER\Desktop\CSharp\Calismalarim\bin\Debug\netcoreapp3.1\Calismalarim.exe
+C:\Users\EKER\Desktop\CSharp\Calismalarim\bin\Debug\netcoreapp3.1\Calismalarim.deps.json
+C:\Users\EKER\Desktop\CSharp\Calismalarim\bin\Debug\netcoreapp3.1\Calismalarim.runtimeconfig.json
+C:\Users\EKER\Desktop\CSharp\Calismalarim\bin\Debug\netcoreapp3.1\Calismalarim.runtimeconfig.dev.json
+C:\Users\EKER\Desktop\CSharp\Calismalarim\bin\Debug\netcoreapp3.1\Calismalarim.dll
+C:\Users\EKER\Desktop\CSharp\Calismalarim\bin\Debug\netcoreapp3.1\Calismalarim.pdb
+C:\Users\EKER\Desktop\CSharp\Calismalarim\obj\Debug\netcoreapp3.1\Calismalarim.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\Calismalarim\obj\Debug\netcoreapp3.1\Calismalarim.AssemblyInfoInputs.cache
+C:\Users\EKER\Desktop\CSharp\Calismalarim\obj\Debug\netcoreapp3.1\Calismalarim.AssemblyInfo.cs
+C:\Users\EKER\Desktop\CSharp\Calismalarim\obj\Debug\netcoreapp3.1\Calismalarim.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\Calismalarim\obj\Debug\netcoreapp3.1\Calismalarim.dll
+C:\Users\EKER\Desktop\CSharp\Calismalarim\obj\Debug\netcoreapp3.1\Calismalarim.pdb
+C:\Users\EKER\Desktop\CSharp\Calismalarim\obj\Debug\netcoreapp3.1\Calismalarim.genruntimeconfig.cache
