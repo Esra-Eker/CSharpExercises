@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\Interfaces3\bin\Debug\Interfaces3.exe.config
+C:\Users\EKER\Desktop\CSharp\Interfaces3\bin\Debug\Interfaces3.exe
+C:\Users\EKER\Desktop\CSharp\Interfaces3\bin\Debug\Interfaces3.pdb
+C:\Users\EKER\Desktop\CSharp\Interfaces3\obj\Debug\Interfaces3.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\Interfaces3\obj\Debug\Interfaces3.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\Interfaces3\obj\Debug\Interfaces3.exe
+C:\Users\EKER\Desktop\CSharp\Interfaces3\obj\Debug\Interfaces3.pdb

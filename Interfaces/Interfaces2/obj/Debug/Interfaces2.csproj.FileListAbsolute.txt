@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\Interfaces2\bin\Debug\Interfaces2.exe.config
+C:\Users\EKER\Desktop\CSharp\Interfaces2\bin\Debug\Interfaces2.exe
+C:\Users\EKER\Desktop\CSharp\Interfaces2\bin\Debug\Interfaces2.pdb
+C:\Users\EKER\Desktop\CSharp\Interfaces2\obj\Debug\Interfaces2.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\Interfaces2\obj\Debug\Interfaces2.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\Interfaces2\obj\Debug\Interfaces2.exe
+C:\Users\EKER\Desktop\CSharp\Interfaces2\obj\Debug\Interfaces2.pdb
