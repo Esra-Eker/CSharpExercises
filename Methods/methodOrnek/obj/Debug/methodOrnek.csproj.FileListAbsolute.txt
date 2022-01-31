@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\methodOrnek\bin\Debug\methodOrnek.exe.config
+C:\Users\EKER\Desktop\CSharp\methodOrnek\bin\Debug\methodOrnek.exe
+C:\Users\EKER\Desktop\CSharp\methodOrnek\bin\Debug\methodOrnek.pdb
+C:\Users\EKER\Desktop\CSharp\methodOrnek\obj\Debug\methodOrnek.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\methodOrnek\obj\Debug\methodOrnek.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\methodOrnek\obj\Debug\methodOrnek.exe
+C:\Users\EKER\Desktop\CSharp\methodOrnek\obj\Debug\methodOrnek.pdb
