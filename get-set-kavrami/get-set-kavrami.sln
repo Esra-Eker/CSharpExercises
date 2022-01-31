@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "get-set-kavrami", "get-set-kavrami.csproj", "{A2E34A9B-68B4-4095-BF1F-149549E50B3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E34A9B-68B4-4095-BF1F-149549E50B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E34A9B-68B4-4095-BF1F-149549E50B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E34A9B-68B4-4095-BF1F-149549E50B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E34A9B-68B4-4095-BF1F-149549E50B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D02EEAD9-2B3F-45D8-9313-4F5E174573DF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\get-set-kavrami\bin\Debug\get-set-kavrami.exe.config
+C:\Users\EKER\Desktop\CSharp\get-set-kavrami\bin\Debug\get-set-kavrami.exe
+C:\Users\EKER\Desktop\CSharp\get-set-kavrami\bin\Debug\get-set-kavrami.pdb
+C:\Users\EKER\Desktop\CSharp\get-set-kavrami\obj\Debug\get-set-kavrami.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\get-set-kavrami\obj\Debug\get-set-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\get-set-kavrami\obj\Debug\get-set-kavrami.exe
+C:\Users\EKER\Desktop\CSharp\get-set-kavrami\obj\Debug\get-set-kavrami.pdb
