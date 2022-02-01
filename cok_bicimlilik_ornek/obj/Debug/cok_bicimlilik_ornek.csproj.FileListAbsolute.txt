@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\cok_bicimlilik_ornek\bin\Debug\cok_bicimlilik_ornek.exe.config
+C:\Users\EKER\Desktop\CSharp\cok_bicimlilik_ornek\bin\Debug\cok_bicimlilik_ornek.exe
+C:\Users\EKER\Desktop\CSharp\cok_bicimlilik_ornek\bin\Debug\cok_bicimlilik_ornek.pdb
+C:\Users\EKER\Desktop\CSharp\cok_bicimlilik_ornek\obj\Debug\cok_bicimlilik_ornek.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\cok_bicimlilik_ornek\obj\Debug\cok_bicimlilik_ornek.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\cok_bicimlilik_ornek\obj\Debug\cok_bicimlilik_ornek.exe
+C:\Users\EKER\Desktop\CSharp\cok_bicimlilik_ornek\obj\Debug\cok_bicimlilik_ornek.pdb
