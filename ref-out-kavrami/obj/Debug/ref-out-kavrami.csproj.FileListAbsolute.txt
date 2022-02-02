@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\ref-out-kavrami\bin\Debug\ref-out-kavrami.exe.config
+C:\Users\EKER\Desktop\CSharp\ref-out-kavrami\bin\Debug\ref-out-kavrami.exe
+C:\Users\EKER\Desktop\CSharp\ref-out-kavrami\bin\Debug\ref-out-kavrami.pdb
+C:\Users\EKER\Desktop\CSharp\ref-out-kavrami\obj\Debug\ref-out-kavrami.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\ref-out-kavrami\obj\Debug\ref-out-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\ref-out-kavrami\obj\Debug\ref-out-kavrami.exe
+C:\Users\EKER\Desktop\CSharp\ref-out-kavrami\obj\Debug\ref-out-kavrami.pdb
