@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\BilgiYarismasiOyunu\bin\Debug\BilgiYarismasiOyunu.exe.config
+C:\Users\EKER\Desktop\CSharp\BilgiYarismasiOyunu\bin\Debug\BilgiYarismasiOyunu.exe
+C:\Users\EKER\Desktop\CSharp\BilgiYarismasiOyunu\bin\Debug\BilgiYarismasiOyunu.pdb
+C:\Users\EKER\Desktop\CSharp\BilgiYarismasiOyunu\obj\Debug\BilgiYarismasiOyunu.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\BilgiYarismasiOyunu\obj\Debug\BilgiYarismasiOyunu.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\BilgiYarismasiOyunu\obj\Debug\BilgiYarismasiOyunu.exe
+C:\Users\EKER\Desktop\CSharp\BilgiYarismasiOyunu\obj\Debug\BilgiYarismasiOyunu.pdb
