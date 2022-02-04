@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\MatematikMenusuProjesi\bin\Debug\MatematikMenusuProjesi.exe.config
+C:\Users\EKER\Desktop\CSharp\MatematikMenusuProjesi\bin\Debug\MatematikMenusuProjesi.exe
+C:\Users\EKER\Desktop\CSharp\MatematikMenusuProjesi\bin\Debug\MatematikMenusuProjesi.pdb
+C:\Users\EKER\Desktop\CSharp\MatematikMenusuProjesi\obj\Debug\MatematikMenusuProjesi.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\MatematikMenusuProjesi\obj\Debug\MatematikMenusuProjesi.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\MatematikMenusuProjesi\obj\Debug\MatematikMenusuProjesi.exe
+C:\Users\EKER\Desktop\CSharp\MatematikMenusuProjesi\obj\Debug\MatematikMenusuProjesi.pdb
