@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\MuzikOynatma\bin\Debug\MuzikOynatma.exe.config
+C:\Users\EKER\Desktop\CSharp\MuzikOynatma\bin\Debug\MuzikOynatma.exe
+C:\Users\EKER\Desktop\CSharp\MuzikOynatma\bin\Debug\MuzikOynatma.pdb
+C:\Users\EKER\Desktop\CSharp\MuzikOynatma\obj\Debug\MuzikOynatma.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\MuzikOynatma\obj\Debug\MuzikOynatma.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\MuzikOynatma\obj\Debug\MuzikOynatma.exe
+C:\Users\EKER\Desktop\CSharp\MuzikOynatma\obj\Debug\MuzikOynatma.pdb
