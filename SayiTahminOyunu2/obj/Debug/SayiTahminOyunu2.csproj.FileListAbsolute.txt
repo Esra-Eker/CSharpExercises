@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\SayiTahminOyunu2\bin\Debug\SayiTahminOyunu2.exe.config
+C:\Users\EKER\Desktop\CSharp\SayiTahminOyunu2\bin\Debug\SayiTahminOyunu2.exe
+C:\Users\EKER\Desktop\CSharp\SayiTahminOyunu2\bin\Debug\SayiTahminOyunu2.pdb
+C:\Users\EKER\Desktop\CSharp\SayiTahminOyunu2\obj\Debug\SayiTahminOyunu2.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\SayiTahminOyunu2\obj\Debug\SayiTahminOyunu2.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\SayiTahminOyunu2\obj\Debug\SayiTahminOyunu2.exe
+C:\Users\EKER\Desktop\CSharp\SayiTahminOyunu2\obj\Debug\SayiTahminOyunu2.pdb
