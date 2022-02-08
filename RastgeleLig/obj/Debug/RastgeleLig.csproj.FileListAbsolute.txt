@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\RastgeleLig\bin\Debug\RastgeleLig.exe.config
+C:\Users\EKER\Desktop\CSharp\RastgeleLig\bin\Debug\RastgeleLig.exe
+C:\Users\EKER\Desktop\CSharp\RastgeleLig\bin\Debug\RastgeleLig.pdb
+C:\Users\EKER\Desktop\CSharp\RastgeleLig\obj\Debug\RastgeleLig.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\RastgeleLig\obj\Debug\RastgeleLig.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\RastgeleLig\obj\Debug\RastgeleLig.exe
+C:\Users\EKER\Desktop\CSharp\RastgeleLig\obj\Debug\RastgeleLig.pdb
