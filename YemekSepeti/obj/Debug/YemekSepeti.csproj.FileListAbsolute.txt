@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\YemekSepeti\bin\Debug\YemekSepeti.exe.config
+C:\Users\EKER\Desktop\CSharp\YemekSepeti\bin\Debug\YemekSepeti.exe
+C:\Users\EKER\Desktop\CSharp\YemekSepeti\bin\Debug\YemekSepeti.pdb
+C:\Users\EKER\Desktop\CSharp\YemekSepeti\obj\Debug\YemekSepeti.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\YemekSepeti\obj\Debug\YemekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\YemekSepeti\obj\Debug\YemekSepeti.exe
+C:\Users\EKER\Desktop\CSharp\YemekSepeti\obj\Debug\YemekSepeti.pdb
