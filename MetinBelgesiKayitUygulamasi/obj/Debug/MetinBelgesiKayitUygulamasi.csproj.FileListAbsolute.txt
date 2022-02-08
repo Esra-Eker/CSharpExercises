@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\MetinBelgesiKayitUygulamasi\bin\Debug\MetinBelgesiKayitUygulamasi.exe.config
+C:\Users\EKER\Desktop\CSharp\MetinBelgesiKayitUygulamasi\bin\Debug\MetinBelgesiKayitUygulamasi.exe
+C:\Users\EKER\Desktop\CSharp\MetinBelgesiKayitUygulamasi\bin\Debug\MetinBelgesiKayitUygulamasi.pdb
+C:\Users\EKER\Desktop\CSharp\MetinBelgesiKayitUygulamasi\obj\Debug\MetinBelgesiKayitUygulamasi.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\MetinBelgesiKayitUygulamasi\obj\Debug\MetinBelgesiKayitUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\MetinBelgesiKayitUygulamasi\obj\Debug\MetinBelgesiKayitUygulamasi.exe
+C:\Users\EKER\Desktop\CSharp\MetinBelgesiKayitUygulamasi\obj\Debug\MetinBelgesiKayitUygulamasi.pdb
