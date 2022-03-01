@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\BanknotHesabi\bin\Debug\BanknotHesabi.exe.config
+C:\Users\EKER\Desktop\CSharp\BanknotHesabi\bin\Debug\BanknotHesabi.exe
+C:\Users\EKER\Desktop\CSharp\BanknotHesabi\bin\Debug\BanknotHesabi.pdb
+C:\Users\EKER\Desktop\CSharp\BanknotHesabi\obj\Debug\BanknotHesabi.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\BanknotHesabi\obj\Debug\BanknotHesabi.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\BanknotHesabi\obj\Debug\BanknotHesabi.exe
+C:\Users\EKER\Desktop\CSharp\BanknotHesabi\obj\Debug\BanknotHesabi.pdb
