@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\EKER\Desktop\CSharp\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\EKER\Desktop\CSharp\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\EKER\Desktop\CSharp\Metotlar\obj\Debug\Metotlar.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\EKER\Desktop\CSharp\Metotlar\obj\Debug\Metotlar.pdb
