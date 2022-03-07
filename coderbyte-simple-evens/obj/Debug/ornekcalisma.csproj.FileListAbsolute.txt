@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\ornekcalisma\bin\Debug\ornekcalisma.exe.config
+C:\Users\EKER\Desktop\CSharp\ornekcalisma\bin\Debug\ornekcalisma.exe
+C:\Users\EKER\Desktop\CSharp\ornekcalisma\bin\Debug\ornekcalisma.pdb
+C:\Users\EKER\Desktop\CSharp\ornekcalisma\obj\Debug\ornekcalisma.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\ornekcalisma\obj\Debug\ornekcalisma.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\ornekcalisma\obj\Debug\ornekcalisma.exe
+C:\Users\EKER\Desktop\CSharp\ornekcalisma\obj\Debug\ornekcalisma.pdb
