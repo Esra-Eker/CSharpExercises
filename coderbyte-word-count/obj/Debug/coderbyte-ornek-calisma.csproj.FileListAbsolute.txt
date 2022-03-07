@@ -1,0 +1,6 @@
+C:\Users\EKER\Desktop\CSharp\coderbyte-ornek-calisma\bin\Debug\coderbyte-ornek-calisma.exe.config
+C:\Users\EKER\Desktop\CSharp\coderbyte-ornek-calisma\bin\Debug\coderbyte-ornek-calisma.exe
+C:\Users\EKER\Desktop\CSharp\coderbyte-ornek-calisma\bin\Debug\coderbyte-ornek-calisma.pdb
+C:\Users\EKER\Desktop\CSharp\coderbyte-ornek-calisma\obj\Debug\coderbyte-ornek-calisma.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\coderbyte-ornek-calisma\obj\Debug\coderbyte-ornek-calisma.exe
+C:\Users\EKER\Desktop\CSharp\coderbyte-ornek-calisma\obj\Debug\coderbyte-ornek-calisma.pdb
